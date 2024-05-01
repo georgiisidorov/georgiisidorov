@@ -47,7 +47,9 @@
 
 ## Кейсы
 ### aiogram
-Интернет-магазин по продаже обуви. Здесь привязана оплата криптовалютой через CryptoCloud. При разработке были использованы библиотеки aiogram, gspread_asyncio, xlsxwriter, yahoo_fin (<a href='https://github.com/georgiisidorov/AllBareFoot'>перейти по ссылке</a>)
+Интернет-магазин по продаже обуви AllBareFoot. Здесь привязана оплата криптовалютой через CryptoCloud. При разработке были использованы библиотеки aiogram, gspread_asyncio, xlsxwriter, yahoo_fin (<a href='https://github.com/georgiisidorov/AllBareFoot'>перейти по ссылке</a>)
+
+Благодаря боту MainTool можно увеличить количество подписчиков в канале, просмотров и реакций на конкретный пост (<a href='https://github.com/georgiisidorov/MainTool'>перейти по ссылке</a>)
 
 https://github.com/georgiisidorov/AllBareFoot <br>
 https://github.com/georgiisidorov/MainTool <br>
