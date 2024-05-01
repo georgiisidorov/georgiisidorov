@@ -47,9 +47,10 @@ Email: georgiis&#x2060;idorov10@&#x2060;gmail.com
 - Готов справиться с проектами любой сложности, сроки и стоимость обсуждаемы
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgiisidorov&repo=InstaBot)](https://github.com/georgiisidorov/InstaBot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgiisidorov&repo=WildberriesBot)](https://github.com/georgiisidorov/WildberriesBot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgiisidorov&repo=WhatsAppBot)](https://github.com/georgiisidorov/WhatsAppBot)
+https://github.com/georgiisidorov/InstaBot
+https://github.com/georgiisidorov/WildberriesBot
+https://github.com/georgiisidorov/WhatsAppBot
+https://github.com/georgiisidorov/AllBareFoot
 
 ## xlsxwriter:
 wildberries
@@ -66,7 +67,7 @@ Courses_sale
 ## aiogram
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgiisidorov&repo=AllBareFoot)](https://github.com/georgiisidorov/AllBareFoot)
+
 
 MainTool
 
