@@ -55,21 +55,23 @@
 ### pyrogram
 PyrogramBot позволяет автоматически инвайтить людей в групповые чаты, писать в них или в лс. (<a href='https://github.com/georgiisidorov/PyrogramBot'>перейти по ссылке</a>)
 ### django, html, css, javascript
-https://github.com/georgiisidorov/TGTech
+TGTch - сайт, написанный на Django. Является "визитной карточкой" специалистов по чат-ботам телеграма, с кейсами, публичной офертой и т.д. (<a href='https://github.com/georgiisidorov/TGTech'>перейти по ссылке</a>)
 ### selenium
-https://github.com/georgiisidorov/InstaBot <br>
-https://github.com/georgiisidorov/WhatsAppBot <br>
-https://github.com/georgiisidorov/WildberriesBot <br>
-### xlsxwriter:
-https://github.com/georgiisidorov/WildberriesBot <br>
-### scrapy и multiprocessing:
-https://github.com/georgiisidorov/SportSignalBot <br>
-https://github.com/georgiisidorov/CryptoNewsBot <br>
-### vk_bottle
-https://github.com/georgiisidorov/VKBot
-### gspread_asyncio
-https://github.com/georgiisidorov/AllBareFoot <br>
+InstaBot - парсер инстаграм-аккаунтов и авторассыльщик сообщений в Instagram. (<a href='https://github.com/georgiisidorov/InstaBot'>перейти по ссылке</a>)
 
+WhatsAppBot - авторассыльщик сообщений в WhatsApp (<a href='https://github.com/georgiisidorov/WhatsAppBot'>перейти по ссылке</a>)
+
+WildberriesBot автоматизирует взаимодействие с Wildberries (<a href='https://github.com/georgiisidorov/WildberriesBot'>перейти по ссылке</a>)
+### xlsxwriter:
+WildberriesBot выгружает анализ рынка в excel-файл (<a href='https://github.com/georgiisidorov/WildberriesBot'>перейти по ссылке</a>)
+### scrapy и multiprocessing:
+CryptoNewsBot автоматически каждую минуту собирает свежие новости о криптовалюте с открытых источников <a href='https://github.com/georgiisidorov/CryptoNewsBot'>перейти по ссылке</a>
+
+По созданной стратегии для ставок, SportSignalBot в режиме 24/7 ищет матчи, удовлетворяющие ей a href='https://github.com/georgiisidorov/SportSignalBot'>перейти по ссылке</a>
+### vk_bottle
+Парсит людей в VK среди подписавшихся на страницу и комментирующих посты, а также небольшой чат-бот с оплатой и последующей после нее выдачей документа (<a href='https://github.com/georgiisidorov/VKBot'>перейти по ссылке</a>)
+### gspread_asyncio
+Интернет-магазин по продаже обуви AllBareFoot. Все заказы, поступающие в бота, сразу добавляются в гугл-таблицу (<a href='https://github.com/georgiisidorov/AllBareFoot'>перейти по ссылке</a>)
 
 
 
