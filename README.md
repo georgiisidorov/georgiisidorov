@@ -50,9 +50,9 @@ https://github.com/georgiisidorov/AllBareFoot <br>
 https://github.com/georgiisidorov/MainTool <br>
 https://github.com/georgiisidorov/BesplatnoWBBot <br>
 ### pyrogram
-Courses_sale
+https://github.com/georgiisidorov/PyrogramBot
 ### django, html, css, javascript
-TGTech
+https://github.com/georgiisidorov/TGTech
 ### selenium
 https://github.com/georgiisidorov/InstaBot <br>
 https://github.com/georgiisidorov/WhatsAppBot <br>
