@@ -63,9 +63,9 @@ https://github.com/georgiisidorov/WildberriesBot <br>
 https://github.com/georgiisidorov/SportSignalBot <br>
 https://github.com/georgiisidorov/CryptoNewsBot <br>
 ### vk_bottle
-СЧС-список
+https://github.com/georgiisidorov/VKBot
 ### gspread_asyncio
-allbarefoot_bot
+https://github.com/georgiisidorov/AllBareFoot <br>
 
 
 
