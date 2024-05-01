@@ -60,7 +60,7 @@ https://github.com/georgiisidorov/WildberriesBot <br>
 ### xlsxwriter:
 https://github.com/georgiisidorov/WildberriesBot <br>
 ### scrapy и multiprocessing:
-sportsignal_bot
+https://github.com/georgiisidorov/SportSignalBot <br>
 https://github.com/georgiisidorov/CryptoNewsBot <br>
 ### vk_bottle
 СЧС-список
