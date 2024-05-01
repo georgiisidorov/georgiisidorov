@@ -51,11 +51,9 @@
 
 Благодаря боту MainTool можно увеличить количество подписчиков в канале, просмотров и реакций на конкретный пост (<a href='https://github.com/georgiisidorov/MainTool'>перейти по ссылке</a>)
 
-https://github.com/georgiisidorov/AllBareFoot <br>
-https://github.com/georgiisidorov/MainTool <br>
-https://github.com/georgiisidorov/BesplatnoWBBot <br>
+Бот BesplatnoWBBot автоматизирует сбор заявок на размещение рекламы в телеграм-канале (<a href='https://github.com/georgiisidorov/BesplatnoWBBot'>перейти по ссылке</a>)
 ### pyrogram
-https://github.com/georgiisidorov/PyrogramBot
+PyrogramBot позволяет автоматически инвайтить людей в групповые чаты, писать в них или в лс. (<a href='https://github.com/georgiisidorov/PyrogramBot'>перейти по ссылке</a>)
 ### django, html, css, javascript
 https://github.com/georgiisidorov/TGTech
 ### selenium
