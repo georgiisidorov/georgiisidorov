@@ -49,8 +49,8 @@ Email: georgiis&#x2060;idorov10@&#x2060;gmail.com
 ## Кейсы
 ### aiogram
 https://github.com/georgiisidorov/AllBareFoot <br>
-MainTool
-RNO_bot_v6
+https://github.com/georgiisidorov/MainTool <br>
+https://github.com/georgiisidorov/BesplatnoWBBot <br>
 ### pyrogram
 Courses_sale
 ### django, html, css, javascript
