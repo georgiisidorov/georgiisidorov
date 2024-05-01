@@ -47,12 +47,12 @@ Email: georgiis&#x2060;idorov10@&#x2060;gmail.com
 - Готов справиться с проектами любой сложности, сроки и стоимость обсуждаемы
 
 ## Кейсы
-#### Selenium
+### Selenium
 https://github.com/georgiisidorov/InstaBot <br>
 https://github.com/georgiisidorov/WhatsAppBot <br>
 https://github.com/georgiisidorov/WildberriesBot <br>
 
-## xlsxwriter:
+### xlsxwriter:
 https://github.com/georgiisidorov/WildberriesBot <br>
 
 ## scrapy и multiprocessing:
