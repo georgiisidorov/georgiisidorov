@@ -33,8 +33,8 @@ Email: georgiis&#x2060;idorov10@&#x2060;gmail.com
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 
-В разработанных мной проектах также были задействованы через API (с помощью aiohttp) или же SDK такие сервисы как: 
-<br>Tinkoff, Pitech, CryptoCloud, Qiwi, Robokassa, Anticaptcha, SMS-Activate, JustAnotherPanel, TgStat, VK, Yahoo
+#### В разработанных мной проектах также были задействованы через API (с помощью aiohttp) или же SDK такие сервисы как: 
+#### <br>Tinkoff, Pitech, CryptoCloud, Qiwi, Robokassa, Anticaptcha, SMS-Activate, JustAnotherPanel, TgStat, VK, Yahoo
 
 
 Во всех созданных чат-ботах телеграма использовались SQLAlchemy, PostgreSQL, Redis. Все проекты деплою на выделенных серверах Ubuntu 22.04
