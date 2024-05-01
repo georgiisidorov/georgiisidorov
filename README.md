@@ -55,7 +55,7 @@
 ### pyrogram
 PyrogramBot позволяет автоматически инвайтить людей в групповые чаты, писать в них или в лс. (<a href='https://github.com/georgiisidorov/PyrogramBot'>перейти по ссылке</a>)
 ### django, html, css, javascript
-TGTch - сайт, написанный на Django. Является "визитной карточкой" специалистов по чат-ботам телеграма, с кейсами, публичной офертой и т.д. (<a href='https://github.com/georgiisidorov/TGTech'>перейти по ссылке</a>)
+TGTech - сайт, написанный на Django. Является "визитной карточкой" специалистов по чат-ботам телеграма, с кейсами, публичной офертой и т.д. (<a href='https://github.com/georgiisidorov/TGTech'>перейти по ссылке</a>)
 ### selenium
 InstaBot - парсер инстаграм-аккаунтов и авторассыльщик сообщений в Instagram. (<a href='https://github.com/georgiisidorov/InstaBot'>перейти по ссылке</a>)
 
