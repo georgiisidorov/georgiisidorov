@@ -42,44 +42,35 @@ Email: georgiis&#x2060;idorov10@&#x2060;gmail.com
 
 ## Дополнительная информация:
 - Владение английским языком на уровне Intermediate
-- Стремление к постоянному развитию и изучению новых технологий, сейчас к примеру активно изучаю Web 3
+- Стремление к постоянному развитию и изучению новых технологий, сейчас к примеру активно изучаю Web3
 - Ответственный подход к работе и способность работать в команде
 - Готов справиться с проектами любой сложности, сроки и стоимость обсуждаемы
 
 ## Кейсы
-### Selenium
+### aiogram
+https://github.com/georgiisidorov/AllBareFoot <br>
+MainTool
+RNO_bot_v6
+### pyrogram
+Courses_sale
+### django, html, css, javascript
+TGTech
+### selenium
 https://github.com/georgiisidorov/InstaBot <br>
 https://github.com/georgiisidorov/WhatsAppBot <br>
 https://github.com/georgiisidorov/WildberriesBot <br>
-
 ### xlsxwriter:
 https://github.com/georgiisidorov/WildberriesBot <br>
-
-## scrapy и multiprocessing:
+### scrapy и multiprocessing:
 sportsignal_bot
-
 cryptonews_bot
-## vk_bottle
+### vk_bottle
 СЧС-список
-## gspread_asyncio
+### gspread_asyncio
 allbarefoot_bot
-## pyrogram
-Courses_sale
-## aiogram
-https://github.com/georgiisidorov/AllBareFoot <br>
 
 
 
-
-MainTool
-
-RNO_bot_v6
-## django, html, css, javascript
-TGTech
-
-##
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=georgiisidorov&repo=WildberriesBot)](https://github.com/georgiisidorov/WildberriesBot)
 
 
 
