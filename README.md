@@ -47,6 +47,8 @@
 
 ## Кейсы
 ### aiogram
+Интернет-магазин по продаже обуви. Здесь привязана оплата криптовалютой через CryptoCloud. При разработке были использованы библиотеки aiogram, gspread_asyncio, xlsxwriter, yahoo_fin (<a 'href=https://github.com/georgiisidorov/AllBareFoot'>перейти по ссылке</a>)
+
 https://github.com/georgiisidorov/AllBareFoot <br>
 https://github.com/georgiisidorov/MainTool <br>
 https://github.com/georgiisidorov/BesplatnoWBBot <br>
