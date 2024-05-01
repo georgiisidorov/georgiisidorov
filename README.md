@@ -67,7 +67,7 @@ WildberriesBot выгружает анализ рынка в excel-файл (<a 
 ### scrapy и multiprocessing:
 CryptoNewsBot автоматически каждую минуту собирает свежие новости о криптовалюте с открытых источников <a href='https://github.com/georgiisidorov/CryptoNewsBot'>перейти по ссылке</a>
 
-По созданной стратегии для ставок, SportSignalBot в режиме 24/7 ищет матчи, удовлетворяющие ей a href='https://github.com/georgiisidorov/SportSignalBot'>перейти по ссылке</a>
+По созданной стратегии для ставок, SportSignalBot в режиме 24/7 ищет матчи, удовлетворяющие ей (<a href='https://github.com/georgiisidorov/SportSignalBot'>перейти по ссылке</a>)
 ### vk_bottle
 Парсит людей в VK среди подписавшихся на страницу и комментирующих посты, а также небольшой чат-бот с оплатой и последующей после нее выдачей документа (<a href='https://github.com/georgiisidorov/VKBot'>перейти по ссылке</a>)
 ### gspread_asyncio
