@@ -46,14 +46,15 @@ Email: georgiis&#x2060;idorov10@&#x2060;gmail.com
 - Ответственный подход к работе и способность работать в команде
 - Готов справиться с проектами любой сложности, сроки и стоимость обсуждаемы
 
-
+## Кейсы
+#### Selenium
 https://github.com/georgiisidorov/InstaBot <br>
-https://github.com/georgiisidorov/WildberriesBot <br>
 https://github.com/georgiisidorov/WhatsAppBot <br>
-https://github.com/georgiisidorov/AllBareFoot <br>
+https://github.com/georgiisidorov/WildberriesBot <br>
 
 ## xlsxwriter:
-wildberries
+https://github.com/georgiisidorov/WildberriesBot <br>
+
 ## scrapy и multiprocessing:
 sportsignal_bot
 
@@ -65,6 +66,7 @@ allbarefoot_bot
 ## pyrogram
 Courses_sale
 ## aiogram
+https://github.com/georgiisidorov/AllBareFoot <br>
 
 
 
