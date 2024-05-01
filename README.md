@@ -3,7 +3,7 @@
 ## Контакты: 
 #### Email: georgiis&#x2060;idorov10@&#x2060;gmail.com
 #### Телефон: +7 (903) 122-81-08
-#### Telegram: @sidorov_10
+#### Telegram: @georgiisidorov10
 
 ## ИП Сидоров Георгий Алексеевич
 ⚡️ Разработка и настройка чат-ботов в Telegram и VK <br>
