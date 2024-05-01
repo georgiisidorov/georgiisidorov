@@ -34,7 +34,7 @@ Email: georgiis&#x2060;idorov10@&#x2060;gmail.com
 
 
 В разработанных мной проектах также были задействованы через API (с помощью aiohttp) или же SDK такие сервисы как: 
-Tinkoff, Pitech, CryptoCloud, Qiwi, Robokassa, Anticaptcha, SMS-Activate, JustAnotherPanel, TgStat, VK, Yahoo
+<br>Tinkoff, Pitech, CryptoCloud, Qiwi, Robokassa, Anticaptcha, SMS-Activate, JustAnotherPanel, TgStat, VK, Yahoo
 
 
 Во всех созданных чат-ботах телеграма использовались SQLAlchemy, PostgreSQL, Redis. Все проекты деплою на выделенных серверах Ubuntu 22.04
