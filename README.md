@@ -61,7 +61,7 @@ https://github.com/georgiisidorov/WildberriesBot <br>
 https://github.com/georgiisidorov/WildberriesBot <br>
 ### scrapy и multiprocessing:
 sportsignal_bot
-cryptonews_bot
+https://github.com/georgiisidorov/CryptoNewsBot <br>
 ### vk_bottle
 СЧС-список
 ### gspread_asyncio
