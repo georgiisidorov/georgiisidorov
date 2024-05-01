@@ -47,10 +47,10 @@ Email: georgiis&#x2060;idorov10@&#x2060;gmail.com
 - Готов справиться с проектами любой сложности, сроки и стоимость обсуждаемы
 
 
-https://github.com/georgiisidorov/InstaBot
-https://github.com/georgiisidorov/WildberriesBot
-https://github.com/georgiisidorov/WhatsAppBot
-https://github.com/georgiisidorov/AllBareFoot
+https://github.com/georgiisidorov/InstaBot <br>
+https://github.com/georgiisidorov/WildberriesBot <br>
+https://github.com/georgiisidorov/WhatsAppBot <br>
+https://github.com/georgiisidorov/AllBareFoot <br>
 
 ## xlsxwriter:
 wildberries
