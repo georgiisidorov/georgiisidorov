@@ -67,8 +67,6 @@ https://github.com/georgiisidorov/VKBot
 ### gspread_asyncio
 https://github.com/georgiisidorov/AllBareFoot <br>
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1295829151&layout=compact&theme=dark)](https://stackoverflow.com/users/1295829151/WildberriesBot)
-
 
 
 
