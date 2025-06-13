@@ -1,99 +1,102 @@
-# 👋 Всем привет! Меня зовут Георгий Сидоров 👨‍💻
+# 👋 Георгий Сидоров
+## Full Stack Developer / Python Developer
 
-## Контакты: 
-#### Email: georgiis&#x2060;idorov10@&#x2060;gmail.com
-#### Телефон: +7 (903) 122-81-08
-#### Telegram: <a href='https://t.me/georgiisidorov10'>@georgiisidorov10</a> (приоритетный вид связи)
+### �� Контакты
+- **Email:** georgiis&#x2060;idorov10@&#x2060;gmail.com
+- **Телефон:** +7 (903) 122-81-08
+- **Telegram:** <a href='https://t.me/georgiisidorov10'>@georgiisidorov10</a> (приоритетный вид связи)
 
-## ИП Сидоров Георгий Алексеевич
-  ⚡️  Ускоренная разработка программного обеспечения с помощью Cursor AI <br>
-  ⚡️  Интеграция ИИ и разработка MCP-серверов для бизнеса <br>
-  ⚡️  Разработка сайтов, веб-приложений и веб-административных панелей с помощью Django, CSS, HTML, Typescript, Javascript, React, Next.JS <br>
-  ⚡️  Разработка и настройка чат-ботов в Telegram и VK, стаж работы - 5 лет <br>
-  ⚡️  Разработка управляемых скриптами аккаунтов в Telegram, т.е. юзерботов <br>
-  ⚡️  Использование Selenium и Scrapy для парсинга данных <br>
-  ⚡️  Автоматизация редактирования Google-таблиц
+### 🎯 Профессиональный профиль
+Full Stack разработчик с 6-летним опытом создания веб-приложений и чат-ботов. Специализируюсь на разработке высоконагруженных систем с использованием Python, React, FastAPI и современных frontend-технологий. Имею успешный опыт интеграции различных API и сервисов, включая платежные системы и сервисы доставки.
 
-## Мой стек
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white&style=for-the-badge)
-![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white&style=for-the-badge)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
-![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=fff&style=for-the-badge)
-![Google Sheets Badge](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=fff&style=for-the-badge)
-![SQLAlchemy Badge](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=fff&style=for-the-badge)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 💼 Опыт работы
+#### ИП Сидоров Георгий Алексеевич | 2020 - настоящее время
+**Full Stack Developer / Python Developer**
+
+**Ключевые проекты:**
+
+1. **FitStroi** (2024-2025)
+   - Автоматизированный сервис по предоставлению строительных услуг, доставке нерудных сыпучих материалов. Клиент заходит в сервис, выставляет в систему заказ, на конкурентной основе выбирается исполнитель. Интегрирован ChatGPT для обработки заказов. А также Яндекс.Логистика для расчета стоимости доставки грузов. 
+   - Технологии: ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white&style=for-the-badge)![AIOHTTP](https://img.shields.io/badge/AIOHTTP-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+3. **ProAcademia** (2024-2025)
+   - Сервис-агрегатор учебных центров, через который можно получить доступ к обучающим курсам разной направленности и после их прохождения соответсвующие документы/пропуски/удостоверения для разрешения на работу. Глубокая интеграция ChatGPT, курсы по заданному стандарту генерируются автоматически после их оплаты. Документы отправляются владельцам через Почту России и СДЭК, которые также интегрированы через API в сервис.
+   - Технологии: ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white&style=for-the-badge)![AIOHTTP](https://img.shields.io/badge/AIOHTTP-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+4. **NeuroJob** (2025)
+   - Автоматизация отдела продаж в связке с CRM. Интегрированный ChatGPT через подключенную CRM общается по каналу связи, например WhatsApp, с клиентом, представляет компанию и её продукт, переводит статусы общения по воронке. Под этот функционал разработано полноценное веб-приложение с мультиязычностью, системой месячной подписки и оплатой соответственно, промпты для общения с клиентами можно настраивать самостоятельно.
+   - Технологии: ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white&style=for-the-badge)![AIOHTTP](https://img.shields.io/badge/AIOHTTP-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+### �� Технический стек
+
+#### Backend
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![AIOHTTP](https://img.shields.io/badge/AIOHTTP-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=white)
+
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+#### Базы данных
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+
+#### DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![VK Badge](https://img.shields.io/badge/VK-07F?logo=vk&logoColor=fff&style=for-the-badge)
-![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=for-the-badge)
-![Scrapy Badge](https://img.shields.io/badge/Scrapy-60A839?logo=scrapy&logoColor=fff&style=for-the-badge)
-![AIOHTTP Badge](https://img.shields.io/badge/AIOHTTP-2C5BB4?logo=aiohttp&logoColor=fff&style=for-the-badge)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
+#### Инструменты разработки
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor-ai&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
 
-#### В разработанных мной проектах также были задействованы через API (с помощью aiohttp) или же SDK такие сервисы как: <br>Yandex, Tinkoff, Pitech, CryptoCloud, Qiwi, Robokassa, Anticaptcha, SMS-Activate, JustAnotherPanel, TgStat, VK, Yahoo
+#### Работа с данными
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![XLSXWriter](https://img.shields.io/badge/XLSXWriter-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![GSpread AsyncIO](https://img.shields.io/badge/GSpread%20AsyncIO-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
-#### Во всех созданных чат-ботах телеграма использовались SQLAlchemy, PostgreSQL, Redis. Все проекты деплою на выделенных серверах ОС Ubuntu
+#### Интеграции
+- Платежные системы: Tinkoff, Qiwi, Robokassa, CryptoCloud
+- Сервисы доставки: Яндекс.Логистика, СДЭК, Почта России
+- Социальные сети: VK, Telegram
+- Другие: Yandex, Pitech, Anticaptcha, SMS-Activate, JustAnotherPanel, TgStat, Yahoo
 
-## Дополнительная информация:
-- Владение английским языком на уровне Intermediate
-- Стремление к постоянному развитию и изучению новых технологий, сейчас к примеру активно изучаю Web3
-- Ответственный подход к работе и способность работать в команде
-- Готов справиться с проектами любой сложности, сроки и стоимость обсуждаемы
+#### Фреймворки для ботов
+- aiogram
+- pyrogram
+- vk_bottle
 
-## Основные кейсы
-### FitStroi
-Автоматизированный сервис по предоставлению строительных услуг, доставке нерудных сыпучих материалов. Клиент заходит в сервис, выставляет в систему заказ, на конкурентной основе выбирается исполнитель. Интегрирован ChatGPT для обработки заказов. А также Яндекс.Логистика для расчета стоимости доставки грузов. 
+### 🌍 Языки
+- Русский (родной)
+- Английский (B1/B2)
 
-### ProAcademia
-Сервис-агрегатор учебных центров, через который можно получить доступ к обучающим курсам разной направленности и после их прохождения соответсвующие документы/пропуски/удостоверения для разрешения на работу. Глубокая интеграция ChatGPT, курсы по заданному стандарту генерируются автоматически после их оплаты. Документы отправляются владельцам через Почту России и СДЭК, которые также интегрированы через API в сервис.
+### 🎯 Ключевые компетенции
+- Разработка и поддержка высоконагруженных веб-приложений
+- Интеграция различных API и сервисов
+- Разработка чат-ботов и автоматизация бизнес-процессов
+- Оптимизация производительности и масштабирование приложений
+- Работа с базами данных и кэшированием
+- Деплой и поддержка приложений на Linux-серверах
 
-### NeuroJob
-Автоматизация отдела продаж в связке с CRM. Интегрированный ChatGPT через подключенную CRM общается по каналу связи, например WhatsApp, с клиентом, представляет компанию и её продукт, переводит статусы общения по воронке. Под этот функционал разработано полноценное веб-приложение с мультиязычностью, системой месячной подписки и оплатой соответственно, промпты для общения с клиентами можно настраивать самостоятельно.
-
-## Примеры использования конкретных библиотек (старые кейсы)
-
-### aiogram
-Интернет-магазин по продаже обуви AllBareFoot. Здесь привязана оплата криптовалютой через CryptoCloud. При разработке были использованы библиотеки aiogram, gspread_asyncio, xlsxwriter, yahoo_fin (<a href='https://github.com/georgiisidorov/AllBareFoot'>перейти по ссылке</a>)
-
-Благодаря боту MainTool можно увеличить количество подписчиков в канале, просмотров и реакций на конкретный пост (<a href='https://github.com/georgiisidorov/MainTool'>перейти по ссылке</a>)
-
-Бот BesplatnoWBBot автоматизирует сбор заявок на размещение рекламы в телеграм-канале (<a href='https://github.com/georgiisidorov/BesplatnoWBBot'>перейти по ссылке</a>)
-### pyrogram
-PyrogramBot позволяет автоматически инвайтить людей в групповые чаты, писать в них или в лс. (<a href='https://github.com/georgiisidorov/PyrogramBot'>перейти по ссылке</a>)
-### django, html, css, javascript
-TGTech - сайт, написанный на Django. Является "визитной карточкой" специалистов по чат-ботам телеграма, с кейсами, публичной офертой и т.д. (<a href='https://github.com/georgiisidorov/TGTech'>перейти по ссылке</a>)
-### selenium
-InstaBot - парсер инстаграм-аккаунтов и авторассыльщик сообщений в Instagram. (<a href='https://github.com/georgiisidorov/InstaBot'>перейти по ссылке</a>)
-
-WhatsAppBot - авторассыльщик сообщений в WhatsApp (<a href='https://github.com/georgiisidorov/WhatsAppBot'>перейти по ссылке</a>)
-
-WildberriesBot автоматизирует взаимодействие с Wildberries (<a href='https://github.com/georgiisidorov/WildberriesBot'>перейти по ссылке</a>)
-### xlsxwriter:
-WildberriesBot выгружает анализ рынка в excel-файл (<a href='https://github.com/georgiisidorov/WildberriesBot'>перейти по ссылке</a>)
-### scrapy и multiprocessing:
-CryptoNewsBot автоматически каждую минуту собирает свежие новости о криптовалюте с открытых источников (<a href='https://github.com/georgiisidorov/CryptoNewsBot'>перейти по ссылке</a>)
-
-По созданной стратегии для ставок, SportSignalBot в режиме 24/7 ищет матчи, удовлетворяющие ей (<a href='https://github.com/georgiisidorov/SportSignalBot'>перейти по ссылке</a>)
-### vk_bottle
-Парсит людей в VK среди подписавшихся на страницу и комментирующих посты, а также небольшой чат-бот с оплатой и последующей после нее выдачей документа (<a href='https://github.com/georgiisidorov/VKBot'>перейти по ссылке</a>)
-### gspread_asyncio
-Интернет-магазин по продаже обуви AllBareFoot. Все заказы, поступающие в бота, сразу добавляются в гугл-таблицу (<a href='https://github.com/georgiisidorov/AllBareFoot'>перейти по ссылке</a>)
-
-
-
+### 📚 Дополнительная информация
+- Опыт работы с ChatGPT и другими AI-моделями
+- Знание методологий разработки (Agile, Scrum)
+- Опыт работы с системами контроля версий (Git)
+- Участие в open-source проектах
+- Готовность к удаленной работе
+- Стремление к постоянному развитию и изучению новых технологий
 
 
 
