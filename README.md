@@ -3,7 +3,7 @@
 ## Контакты: 
 #### Email: georgiis&#x2060;idorov10@&#x2060;gmail.com
 #### Телефон: +7 (903) 122-81-08
-#### Telegram: @georgiisidorov10
+#### Telegram: (<a href='https://t.me/georgiisidorov10'>@georgiisidorov10</a>) (приоритетный вид связи)
 
 ## ИП Сидоров Георгий Алексеевич
   ⚡️  Интеграция ИИ и разработка MCP-серверов для бизнеса
