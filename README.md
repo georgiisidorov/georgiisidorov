@@ -6,13 +6,13 @@
 #### Telegram: <a href='https://t.me/georgiisidorov10'>@georgiisidorov10</a> (приоритетный вид связи)
 
 ## ИП Сидоров Георгий Алексеевич
+  ⚡️  Ускоренная разработка программного обеспечения с помощью Cursor AI <br>
   ⚡️  Интеграция ИИ и разработка MCP-серверов для бизнеса <br>
   ⚡️  Разработка сайтов, веб-приложений и веб-административных панелей с помощью Django, CSS, HTML, Typescript, Javascript, React, Next.JS <br>
   ⚡️  Разработка и настройка чат-ботов в Telegram и VK, стаж работы - 5 лет <br>
   ⚡️  Разработка управляемых скриптами аккаунтов в Telegram, т.е. юзерботов <br>
   ⚡️  Использование Selenium и Scrapy для парсинга данных <br>
-  ⚡️  Автоматизация процессов редактирования Google-таблиц <br>
-  ⚡️  Импорт и экспорт данных из/в базы данных в Excel-файлы 
+  ⚡️  Автоматизация редактирования Google-таблиц
 
 ## Мой стек
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white&style=for-the-badge)
