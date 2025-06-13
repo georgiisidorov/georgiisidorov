@@ -6,20 +6,31 @@
 #### Telegram: @georgiisidorov10
 
 ## ИП Сидоров Георгий Алексеевич
+  ⚡️  Интеграция ИИ и разработка MCP-серверов для бизнеса
+  ⚡️  Разработка сайтов, веб-приложений и веб-административных панелей с помощью Django, CSS, HTML, Typescript, Javascript, React, Next.JS <br>
   ⚡️  Разработка и настройка чат-ботов в Telegram и VK, стаж работы - 5 лет <br>
   ⚡️  Разработка управляемых скриптами аккаунтов в Telegram, т.е. юзерботов <br>
   ⚡️  Использование Selenium и Scrapy для парсинга данных <br>
-  ⚡️  Создание сайтов и веб-административных панелей с использованием Django, CSS, HTML, Javascript <br>
   ⚡️  Автоматизация процессов редактирования Google-таблиц <br>
   ⚡️  Импорт и экспорт данных из/в базы данных в Excel-файлы 
 
 ## Мой стек
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
+![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-000000?logo=cursor-ai-white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=fff&style=for-the-badge)
 ![Google Sheets Badge](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=fff&style=for-the-badge)
 ![SQLAlchemy Badge](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=fff&style=for-the-badge)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,15 +45,13 @@
 
 #### В разработанных мной проектах также были задействованы через API (с помощью aiohttp) или же SDK такие сервисы как: <br>Tinkoff, Pitech, CryptoCloud, Qiwi, Robokassa, Anticaptcha, SMS-Activate, JustAnotherPanel, TgStat, VK, Yahoo
 
-#### Во всех созданных чат-ботах телеграма использовались SQLAlchemy, PostgreSQL, Redis. Все проекты деплою на выделенных серверах Ubuntu 22.04
-
+#### Во всех созданных чат-ботах телеграма использовались SQLAlchemy, PostgreSQL, Redis. Все проекты деплою на выделенных серверах ОС Ubuntu
 
 ## Дополнительная информация:
 - Владение английским языком на уровне Intermediate
 - Стремление к постоянному развитию и изучению новых технологий, сейчас к примеру активно изучаю Web3
 - Ответственный подход к работе и способность работать в команде
 - Готов справиться с проектами любой сложности, сроки и стоимость обсуждаемы
-
 
 ## Кейсы
 ### aiogram
