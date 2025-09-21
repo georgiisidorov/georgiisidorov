@@ -124,7 +124,6 @@ Experienced **Senior Full Stack Developer** with **6 years** of expertise in bui
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/georgiisidorov)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/georgiisidorov10)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georgiisidorov10@gmail.com)
 
@@ -132,15 +131,7 @@ Experienced **Senior Full Stack Developer** with **6 years** of expertise in bui
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgiisidorov&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=georgiisidorov&layout=compact&theme=dark&hide_border=true)
-
----
-
-## 🚀 Recent Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=georgiisidorov&theme=dark&hide_border=true&custom_title=GitHub%20Activity%20Graph)
 
 ---
 
