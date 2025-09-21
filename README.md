@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Georgy Sidorov
+# 👋 Hello, I'm Georgii Sidorov
 
 ## 👨‍💻 Senior Full Stack Developer | Python | React | FastAPI | DevOps
 
